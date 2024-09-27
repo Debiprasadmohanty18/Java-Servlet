@@ -4,8 +4,7 @@
 
 2 - Servlet Methods
 
-    --> Get 
-    
+    --> Get     
     --> Post
 
 3 - Serlet Multiple Parameters
