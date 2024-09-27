@@ -7,4 +7,4 @@
     --> Get     
     --> Post
 
-3 - Serlet Multiple Parameters
+3 - Servlet Multiple Parameters
