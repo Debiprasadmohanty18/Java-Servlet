@@ -15,4 +15,8 @@
 
     --> RequestDispatcher
     --> sendRedirect
-    
+
+6 - HttpSession
+
+    --> getAttribute
+    --> setAttribute
