@@ -9,6 +9,8 @@
 
 3 - Servlet Multiple Parameters
 
+    --> getParameterValues("ArrayVariable")
+
 4 - Visit Counter
 
 5 - Calling Other Servlet From One Servlet
