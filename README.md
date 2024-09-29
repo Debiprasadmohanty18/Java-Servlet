@@ -4,8 +4,8 @@
 
 2 - Servlet Methods
 
-    --> Get     
-    --> Post
+    --> doGet     
+    --> doPost
 
 3 - Servlet Multiple Parameters
 
